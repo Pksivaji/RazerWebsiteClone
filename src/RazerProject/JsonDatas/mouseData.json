@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Logitech G Pro Wireless",
+      "model": "G Pro",
+      "price": 149.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/b/6/a/-original-imagmehazphv5gjk.jpeg?q=70"
+    },
+    {
+      "id": 2,
+      "name": "Razer DeathAdder Elite",
+      "model": "DeathAdder Elite",
+      "price": 69.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/w/a/t/-original-imagmehak6yyhhku.jpeg?q=70"
+    },
+    {
+      "id": 3,
+      "name": "SteelSeries Rival 600",
+      "model": "Rival 600",
+      "price": 79.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/s/s/6/-original-imagmeh9qzbapy6g.jpeg?q=70"
+    },
+    {
+      "id": 4,
+      "name": "Corsair Dark Core RGB Pro",
+      "model": "Dark Core RGB Pro",
+      "price": 89.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kwmfqfk0/mouse/q/h/5/orochi-v2-mobile-white-edition-18k-dpi-rz01-03730400-r3a1-razer-original-imag99gqwhuh3fas.jpeg?q=70"
+    },
+    {
+      "id": 5,
+      "name": "Logitech G502 HERO",
+      "model": "G502 HERO",
+      "price": 79.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kbb49zk0/mouse/g/a/p/logitech-m90-original-imafszz4jv97hdqz.jpeg?q=70"
+    },
+    {
+      "id": 6,
+      "name": "HyperX Pulsefire FPS Pro",
+      "model": "Pulsefire FPS Pro",
+      "price": 49.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/h/l/l/basilisk-v3-pro-customizable-mouse-hyperscroll-tilt-wheel-rz01-original-imagptfxwuvubzgz.jpeg?q=70"
+    },
+    {
+      "id": 7,
+      "name": "BenQ Zowie EC2",
+      "model": "Zowie EC2",
+      "price": 69.99,
+      "warranty": "3 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/r/s/f/viper-v2-pro-hyperspeed-59g-30000-dpi-80hr-battery-rz01-04390200-original-imagptfxh2xe5c68.jpeg?q=70"
+    },
+    {
+      "id": 8,
+      "name": "Roccat Kain 120 AIMO",
+      "model": "Kain 120 AIMO",
+      "price": 79.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/khuvxjk0-0/mouse/l/t/6/zeb-transformer-m-zebronics-original-imafxrugfftphbkk.jpeg?q=70"
+    },
+    {
+      "id": 9,
+      "name": "Corsair Sabre RGB Pro",
+      "model": "Sabre RGB Pro",
+      "price": 59.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/o/s/0/els-501-pro-elista-original-imags9rpdaefpw9n.jpeg?q=70"
+    },
+    {
+      "id": 10,
+      "name": "Razer Basilisk Ultimate",
+      "model": "Basilisk Ultimate",
+      "price": 169.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/z/d/z/basilisk-v3-x-hyperspeed-bluetooth-7-programmable-buttons-rz01-original-imagptfxycekgded.jpeg?q=70"
+    },
+    {
+      "id": 11,
+      "name": "SteelSeries Sensei Ten",
+      "model": "Sensei Ten",
+      "price": 69.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/l/r/m/vader-gaming-mouse-with-6-buttons-thumb-support-rgb-lights-max-original-imagw4rmkfqqxzt9.jpeg?q=70"
+    },
+    {
+      "id": 12,
+      "name": "Logitech G903 LIGHTSPEED",
+      "model": "G903 LIGHTSPEED",
+      "price": 149.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kwmfqfk0/mouse/k/x/s/deathadder-essential-ergonomic-6400-dpi-rz01-03850100-r3m1-razer-original-imag99gqmkdy4ygj.jpeg?q=70"
+    },
+    {
+      "id": 13,
+      "name": "Roccat Burst Pro",
+      "model": "Burst Pro",
+      "price": 59.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/b/j/w/-original-imagzk6m9xyg8hcs.jpeg?q=70"
+    },
+    {
+      "id": 14,
+      "name": "Corsair M65 RGB Elite",
+      "model": "M65 RGB Elite",
+      "price": 49.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/khuvxjk0-0/mouse/l/t/6/zeb-transformer-m-zebronics-original-imafxrugfftphbkk.jpeg?q=70"
+    },
+    {
+      "id": 15,
+      "name": "HyperX Pulsefire Haste",
+      "model": "Pulsefire Haste",
+      "price": 49.99,
+      "warranty": "1 year",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/2/t/f/f-1-gaming-mouse-wired-for-compute-entwino-original-imagwyhvzdhkwkyv.jpeg?q=70"
+    },
+    {
+      "id": 16,
+      "name": "Razer Viper Ultimate",
+      "model": "Viper Ultimate",
+      "price": 149.99,
+      "warranty": "1 year",
+      "image": "https://www.example.com/razer-viper-ultimate.jpg"
+    },
+    {
+      "id": 17,
+      "name": "SteelSeries Rival 650",
+      "model": "Rival 650",
+      "price": 119.99,
+      "warranty": "1 year",
+      "image": "https://www.example.com/steelseries-rival-650.jpg"
+    },
+    {
+      "id": 18,
+      "name": "Logitech G305 Lightspeed",
+      "model": "G305 Lightspeed",
+      "price": 59.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/m/m/t/-original-imaghttrnd4my7mm.jpeg?q=70"
+    },
+    {
+      "id": 19,
+      "name": "Roccat Kone Pro Air",
+      "model": "Kone Pro Air",
+      "price": 129.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/mouse/l/r/m/vader-gaming-mouse-with-6-buttons-thumb-support-rgb-lights-max-original-imagw4rmkfqqxzt9.jpeg?q=70"
+    },
+    {
+      "id": 20,
+      "name": "Corsair Nightsword RGB",
+      "model": "Nightsword RGB",
+      "price": 79.99,
+      "warranty": "2 years",
+      "image": "https://rukminim2.flixcart.com/image/612/612/kp1imq80/mouse/6/9/j/g102-light-sync-logitech-original-imag3d4rzzzyrfxd.jpeg?q=70"
+    }
+  ]
+  

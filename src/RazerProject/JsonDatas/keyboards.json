@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "name": "Razer BlackWidow Elite",
+    "model": "BlackWidow Elite",
+    "price": 129.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/f/4/t/evofox-fireblade-led-backlit-amkette-original-imagrzmxfs5ua6pz.jpeg?q=70",
+    "brand": "Razer",
+    "discount_percentage": 9,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Corsair K95 RGB Platinum XT",
+    "model": "K95 RGB Platinum XT",
+    "price": 159.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/c/v/p/deathray-prism-rgb-silent-membrane-keys-evofox-original-imagxra86txbvrza.jpeg?q=70",
+    "brand": "Corsair",
+    "discount_percentage": 5,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "Logitech G Pro X",
+    "model": "G Pro X",
+    "price": 129.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/j/b/7/-original-imagw4ztgrgm9jby.jpeg?q=70",
+    "brand": "Logitech",
+    "discount_percentage": 10,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "SteelSeries Apex Pro",
+    "model": "Apex Pro",
+    "price": 199.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/j/8/w/f2023-aula-original-imagr4m2gjqgfgag.jpeg?q=70",
+    "brand": "SteelSeries",
+    "discount_percentage": 15,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "HyperX Alloy Elite 2",
+    "model": "Alloy Elite 2",
+    "price": 149.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/e/l/r/hydra-10-5-0-2-4-ghz-rgb-type-c-charging-brown-switch-mechanical-original-imagtyz3zbya4gf3.jpeg?q=70",
+    "brand": "HyperX",
+    "discount_percentage":14,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "ASUS ROG Strix Scope RX",
+    "model": "Strix Scope RX",
+    "price": 179.99,
+    "warranty": "3 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/c/g/x/k1-mechanical-gaming-keyboard-with-blue-switches-20-rgb-original-imagxqkqyxxgbbtt.jpeg?q=70",
+    "brand": "ASUS",
+    "discount_percentage": 13,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Razer Huntsman Elite",
+    "model": "Huntsman Elite",
+    "price": 199.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kwzap3k0/keyboard/gaming-keyboard/f/f/b/mk1300-mini-blue-swiitch-ant-esports-original-imag9jdcdhv5f2tu.jpeg?q=70",
+    "brand": "Sony",
+    "discount_percentage": 10,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Corsair K70 RGB MK.2",
+    "model": "K70 RGB MK.2",
+    "price": 159.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/m/m/y/mk1400-ant-esports-original-imagztekza9rkujp.jpeg?q=70",
+    "brand": "Apple",
+    "discount_percentage": 15,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Logitech G513 Carbon",
+    "model": "G513 Carbon",
+    "price": 129.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/l4yi7bk0/keyboard/gaming-keyboard/x/6/m/s11-04us261-cla-msi-original-imagfqs3hu2t5jhm.jpeg?q=70",
+    "brand": "JBL",
+    "discount_percentage": 20,
+    "rating": 4.9
+  },
+  {
+    "id": 10,
+    "name": "Razer Ornata V2",
+    "model": "Ornata V2",
+    "price": 99.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/t/7/e/-original-imagn3f66jgxbnsf.jpeg?q=70",
+    "brand": "Bose",
+    "discount_percentage": 5,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "SteelSeries Apex 7",
+    "model": "Apex 7",
+    "price": 149.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kwb07m80/keyboard/gaming-keyboard/s/d/4/blackwidow-v3-tenkeyless-mechanical-yellow-switch-rz03-03491800-original-imag9yzw2gxexryz.jpeg?q=70",
+    "brand": "SteelSeries",
+    "discount_percentage": 10,
+    "rating": 4.7
+  },
+  {
+    "id": 12,
+    "name": "HyperX Alloy Origins",
+    "model": "Alloy Origins",
+    "price": 109.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kmxsakw0/keyboard/gaming-keyboard/1/d/q/huntsman-mini-mercury-edition-linear-red-switch-razer-original-imagfqbhb3b7qqqv.jpeg?q=70",
+    "brand": "HyperX",
+    "discount_percentage": 5,
+    "rating": 4.8
+  },
+  {
+    "id": 13,
+    "name": "ASUS ROG Strix Flare",
+    "model": "Strix Flare",
+    "price": 179.99,
+    "warranty": "3 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/knyxqq80/keyboard/gaming-keyboard/l/v/0/tuf-gaming-k3-ra05-asus-original-imag2j6nx25wdfep.jpeg?q=70",
+    "brand": "ASUS",
+    "discount_percentage": 2,
+    "rating": 4.9
+  },
+  {
+    "id": 14,
+    "name": "Razer BlackWidow V3 Pro",
+    "model": "BlackWidow V3 Pro",
+    "price": 229.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kt4ozgw0/keyboard/gaming-keyboard/i/m/1/g213-logitech-original-imag6jj4cp44krfn.jpeg?q=70",
+    "brand": "Razer",
+    "discount_percentage": 15,
+    "rating": 5
+  },
+  {
+    "id": 15,
+    "name": "Corsair K65 RGB Mini",
+    "model": "K65 RGB Mini",
+    "price": 109.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/c/g/x/k1-mechanical-gaming-keyboard-with-blue-switches-20-rgb-original-imagxqkqyxxgbbtt.jpeg?q=70",
+    "brand": "Corsair",
+    "discount_percentage": 5,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "name": "Logitech G815 LIGHTSYNC",
+    "model": "G815 LIGHTSYNC",
+    "price": 199.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/e/l/r/hydra-10-5-0-2-4-ghz-rgb-type-c-charging-brown-switch-mechanical-original-imagtyz3zbya4gf3.jpeg?q=70",
+    "brand": "Logitech",
+    "discount_percentage": 10,
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "name": "SteelSeries Apex 3",
+    "model": "Apex 3",
+    "price": 69.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/3/f/a/kb-0034-frontech-original-imagxhwezhknnrrv.jpeg?q=70",
+    "brand": "SteelSeries",
+    "discount_percentage": 5,
+    "rating": 4.6
+  },
+  {
+    "id": 18,
+    "name": "HyperX Alloy Core RGB",
+    "model": "Alloy Core RGB",
+    "price": 49.99,
+    "warranty": "2 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kp1imq80/keyboard/gaming-keyboard/m/g/v/g512-logitech-original-imag3d4qahg94mru.jpeg?q=70",
+    "brand": "HyperX",
+    "discount_percentage": 10,
+    "rating": 4.5
+  },
+  {
+    "id": 19,
+    "name": "ASUS TUF Gaming K7",
+    "model": "TUF Gaming K7",
+    "price": 99.99,
+    "warranty": "3 years",
+    "image": "https://rukminim2.flixcart.com/image/612/612/kp4difk0/keyboard/gaming-keyboard/u/t/u/mt01-redgear-original-imag3f7tycbjqhwb.jpeg?q=70",
+    "brand": "ASUS",
+    "discount_percentage": 7,
+    "rating": 4.5
+  },
+  {
+    "id": 20,
+    "name": "Corsair K55 RGB",
+    "model": "K55 RGB",
+    "price": 49.99,
+    "warranty": "1 year",
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/keyboard/gaming-keyboard/e/l/r/hydra-10-5-0-2-4-ghz-rgb-type-c-charging-brown-switch-mechanical-original-imagtyz3zbya4gf3.jpeg?q=70",
+    "brand": "Corsair",
+    "discount_percentage": 12,
+    "rating": 4.5
+  }
+]

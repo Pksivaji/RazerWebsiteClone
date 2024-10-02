@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Razer BlackShark V2",
+    "model": "BlackShark V2",
+    "price": 99.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70",
+    "brand": "Razer",
+    "discount_percentage": 12,
+    "rating": 4.9
+  },
+  {
+    "id": 2,
+    "name": "Logitech G Pro X",
+    "model": "G Pro X",
+    "price": 129.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/q/k/zeb-thunder-zebronics-original-imagxaq2wzqdzdzr.jpeg?q=70",
+    "brand": "Logitech",
+    "discount_percentage": 10,
+    "rating": 4.8
+  },
+  {
+    "id": 3,
+    "name": "SteelSeries Arctis 7",
+    "model": "Arctis 7",
+    "price": 149.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/kvifekw0/headphone/b/p/u/nb119-star-50-hours-playtime-bluetooth-neckband-aroma-original-imag8dhresq6cc89.jpeg?q=70",
+    "brand": "SteelSeries",
+    "discount_percentage": 18,
+    "rating": 4.7
+  },
+  {
+    "id": 4,
+    "name": "HyperX Cloud II",
+    "model": "Cloud II",
+    "price": 99.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/l1dwknk0/headphone/b/f/2/wh-1000xm4-sony-original-imagcywfhzq8hx2z.jpeg?q=70",
+    "brand": "HyperX",
+    "discount_percentage": 11,
+    "rating": 4.6
+  },
+  {
+    "id": 5,
+    "name": "Corsair HS70",
+    "model": "HS70",
+    "price": 89.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/n/h/zeb-thunder-pro-zebronics-original-imagyg9fefanckyp.jpeg?q=70",
+    "brand": "Corsair",
+    "discount_percentage": 9,
+    "rating": 4.5
+  },
+  {
+    "id": 6,
+    "name": "Astro A50",
+    "model": "A50",
+    "price": 299.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/jxuq07k0/headphone/p/b/h/kotion-each-gs420-7-color-led-with-mic-and-audio-splitter-original-imafg8fgwcmjpchh.jpeg?q=70",
+    "brand": "Astro",
+    "discount_percentage": 13,
+    "rating": 4.4
+  },
+  {
+    "id": 7,
+    "name": "Beyerdynamic MMX 300",
+    "model": "MMX 300",
+    "price": 349.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/4/k/-original-imagyyzvznqndnca.jpeg?q=70",
+    "brand": "Beyerdynamic",
+    "discount_percentage": 9,
+    "rating": 4.7
+  },
+  {
+    "id": 8,
+    "name": "Sennheiser GSP 600",
+    "model": "GSP 600",
+    "price": 249.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/klgx0280/audioplayer/e/j/b/best-buy-noise-cancellation-stereo-high-bass-sound-wireless-original-imagyky2rzg6rkct.jpeg?q=70",
+    "brand": "Sennheiser",
+    "discount_percentage": 13,
+    "rating": 4.8
+  },
+  {
+    "id": 9,
+    "name": "Roccat Elo 7.1",
+    "model": "Elo 7.1",
+    "price": 69.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/7/7/-original-imagg5jypsfdsbjz.jpeg?q=70",
+    "brand": "Roccat",
+    "discount_percentage": 18,
+    "rating": 4.5
+  },
+  {
+    "id": 10,
+    "name": "Turtle Beach Stealth 700 Gen 2",
+    "model": "Stealth 700 Gen 2",
+    "price": 149.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/b/v/-original-imagywufhynhgt7x.jpeg?q=70",
+    "brand": "Turtle Beach",
+    "discount_percentage": 10,
+    "rating": 4.6
+  },
+  {
+    "id": 11,
+    "name": "Razer Kraken X",
+    "model": "Kraken X",
+    "price": 49.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/p/c/e/t-12-max-house-of-sound-original-imagy9ggyuatxj5e.jpeg?q=70",
+    "brand": "Razer",
+    "discount_percentage": 8,
+    "rating": 4.5
+  },
+  {
+    "id": 12,
+    "name": "Logitech G733",
+    "model": "G733",
+    "price": 129.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/f/7/7/-original-imagg5jypsfdsbjz.jpeg?q=70",
+    "brand": "Logitech",
+    "discount_percentage": 10,
+    "rating": 4.6
+  },
+  {
+    "id": 13,
+    "name": "SteelSeries Arctis Pro",
+    "model": "Arctis Pro",
+    "price": 249.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/l1dwknk0/headphone/b/f/2/wh-1000xm4-sony-original-imagcywfhzq8hx2z.jpeg?q=70",
+    "brand": "SteelSeries",
+    "discount_percentage": 14,
+    "rating": 4.7
+  },
+  {
+    "id": 14,
+    "name": "HyperX Cloud Alpha",
+    "model": "Cloud Alpha",
+    "price": 99.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/h/4/k/-original-imagyyzvznqndnca.jpeg?q=70",
+    "brand": "HyperX",
+    "discount_percentage": 11,
+    "rating": 4.8
+  },
+  {
+    "id": 15,
+    "name": "Corsair VOID RGB Elite",
+    "model": "VOID RGB Elite",
+    "price": 79.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/klgx0280/audioplayer/e/j/b/best-buy-noise-cancellation-stereo-high-bass-sound-wireless-original-imagyky2rzg6rkct.jpeg?q=70",
+    "brand": "Corsair",
+    "discount_percentage": 15,
+    "rating": 4.6
+  },
+  {
+    "id": 16,
+    "name": "Astro A40 TR",
+    "model": "A40 TR",
+    "price": 149.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/q/n/h/zeb-thunder-pro-zebronics-original-imagyg9fefanckyp.jpeg?q=70",
+    "brand": "Astro",
+    "discount_percentage": 5,
+    "rating": 4.7
+  },
+  {
+    "id": 17,
+    "name": "Beyerdynamic DT 990 Pro",
+    "model": "DT 990 Pro",
+    "price": 179.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/kvifekw0/headphone/b/p/u/nb119-star-50-hours-playtime-bluetooth-neckband-aroma-original-imag8dhresq6cc89.jpeg?q=70",
+    "brand": "Beyerdynamic",
+    "discount_percentage": 9,
+    "rating": 4.8
+  },
+  {
+    "id": 18,
+    "name": "Sennheiser HD 660 S",
+    "model": "HD 660 S",
+    "price": 499.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/jxuq07k0/headphone/p/b/h/kotion-each-gs420-7-color-led-with-mic-and-audio-splitter-original-imafg8fgwcmjpchh.jpeg?q=70",
+    "brand": "Sennheiser",
+    "discount_percentage": 8,
+    "rating": 4.9
+  },
+  {
+    "id": 19,
+    "name": "Roccat Syn Pro Air",
+    "model": "Syn Pro Air",
+    "price": 119.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/xif0q/headphone/0/q/k/zeb-thunder-zebronics-original-imagxaq2wzqdzdzr.jpeg?q=70",
+    "brand": "Roccat",
+    "discount_percentage": 10,
+    "rating": 4.5
+  },
+  {
+    "id": 20,
+    "name": "Turtle Beach Recon 200",
+    "model": "Recon 200",
+    "price": 59.99,
+    "image": "https://rukminim2.flixcart.com/image/612/612/ksw4ccw0/headphone/w/g/r/rockerz-450-boat-original-imag6cqqh49wjfy5.jpeg?q=70",
+    "brand": "Turtle Beach",
+    "discount_percentage": 12,
+    "rating": 4.6
+  }
+]
