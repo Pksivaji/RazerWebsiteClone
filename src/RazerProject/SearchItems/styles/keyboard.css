@@ -1,0 +1,9 @@
+@media screen and (max-width:750px){
+    .fa-filter{
+       margin-left:2px;
+    }
+
+    .filterDiv{
+        margin-right: 22px;
+    }
+}
