@@ -1,0 +1,206 @@
+
+
+/*Laptops and mobiles styles */
+
+
+.mobilesDiv,.laptopsDiv{
+    display: flex;
+}
+
+.filter1{
+    width:250px;
+    display: flex;
+    flex-direction: column;
+    position: static;
+    height:170px;
+    overflow-y: hidden;
+    padding: 12px;
+}
+
+.filter2{
+    padding:12px;
+    height:170px;
+    overflow-y: hidden;
+}
+.fa-x{
+    position: relative;
+    color:#1159eb;
+    margin-left: 150px;
+    padding: 5px;
+    cursor: pointer;
+ }
+.contentDiv{
+    border: 2px solid #a7a5b3;
+    justify-content: center;
+        
+}
+.itemDiv{
+    border: 3px solid #5c0413;
+}
+
+.cus-ImgDiv{
+    overflow: hidden;
+    height:300px;
+}
+
+.cus-ImgWidth{
+    width:200px;
+    height:300px;
+    
+}
+
+
+.div2title{
+    color:gray;
+}
+
+.div2title:hover{
+    color:rgb(21, 218, 21);
+}
+
+.rating{
+    width: 55px;
+    margin: 2px;
+    text-align: center;
+    background-color: rgb(19, 154, 19);
+    color:white;
+    border-radius: 5px;
+
+}
+
+.originalDiscount{
+    color:#26d21a;
+    font-size: 16px;
+    font-weight: 500;
+    padding-left: 5px;
+}
+
+/* -------------------------Search Laptops--css starts from here------------------------------------------------ */
+/* ----------------------------------------------------------------------------------------------- */
+
+.Lapfilter1{
+    width:250px;
+    display: flex;
+    flex-direction: column;
+    position: static;
+    overflow-y: hidden;
+    padding: 12px;
+    height: 293px;
+}
+
+.Lapfilter2{
+    height: 197px;
+    padding:12px;
+    overflow-y: hidden;
+}
+
+/* ------------------------------@media starts------------------------------------------------------- */
+
+ @media screen and (max-width:650px) {
+.mobilesDiv,.laptopsDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+
+.filterDiv{
+    display: flex;
+    flex-direction: column;
+    /* display: none; */
+      
+}
+
+
+.filter1{
+    /* display: none; */
+    position:absolute;
+    top:132px;
+    padding: 5px;
+    background-color: black;
+    color:white;
+    width:200px;
+    padding: 12px;
+    height:230px;
+   
+
+}
+
+.filter2{
+    position:absolute;
+    top:328px;
+    padding: 5px;
+    background-color: black;
+    color:white;
+    width:200px;
+    padding: 12px;
+    height:170px;
+
+}
+
+.itemDiv{
+    border: 3px solid #11e37a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.cus-ImgWidth{
+        width:400px;
+        /* border:1px solid red; */
+        height:300px;
+    }
+
+    .cus-ImgDiv{
+         width:250px;
+         /* border:3px solid rgb(11, 255, 11); */
+         display: flex;
+         justify-content: center;
+    }
+
+    .div2{
+        min-width:400px;
+    }
+    
+    .div3{
+        min-width: 400px;
+       
+    }
+
+/* -------------------------Search Laptops-media queries------------------------------------------------ */
+                /* ----------------------------------------------------- */
+    .laptopsDiv{
+        
+    }
+
+    .Lapfilter1{
+        height: 350px;
+        position:absolute;
+        top:132px;
+        padding: 5px;
+        background-color: black;
+        color:white;
+        width:200px;
+        padding: 12px;
+        
+    }
+
+    .Lapfilter2{
+        position:absolute;
+        top:448px;
+        padding: 5px;
+        background-color: black;
+        color:white;
+        width:200px;
+        padding: 12px;
+        height:195px;
+    }
+
+
+    /* --------------------media queries------------------------------------------- */
+  @media (max-width=650px){
+        
+   }
+   
+    
+}
